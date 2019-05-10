@@ -16,6 +16,8 @@ class ViewController: UIViewController {
     }
     
     func F1(){
+    }
+    func F2(){
         
     }
 
