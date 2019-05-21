@@ -23,7 +23,12 @@ class ViewController: UIViewController {
     func Z1(){
         
     }
+
     func Z2(){
+        
+    }
+    
+    func Z12(){
         
     }
 
