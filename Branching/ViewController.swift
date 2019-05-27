@@ -35,5 +35,8 @@ class ViewController: UIViewController {
     func Z3_2(){
         
     }
+    func Z4(){
+        
+    }
 }
 
