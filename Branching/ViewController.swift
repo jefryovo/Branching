@@ -41,7 +41,11 @@ class ViewController: UIViewController {
     }
     
     func Z5(){
+        
+    }
     
+    func Z6(){
+        
     }
     
     
