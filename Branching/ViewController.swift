@@ -40,6 +40,10 @@ class ViewController: UIViewController {
         
     }
     
+    func Z7(){
+        
+    }
+    
     func Z5(){
     
     }
