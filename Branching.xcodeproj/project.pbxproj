@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		94341D05229C642D00FFB979 /* Class3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94341D04229C642D00FFB979 /* Class3.swift */; };
+		94AD25F7229C3DFC003A44FD /* Class1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94AD25F6229C3DFC003A44FD /* Class1.swift */; };
 		94AD25F7229C3DFC003A44FD /* Class1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94AD25F6229C3DFC003A44FD /* Class1.swift */; };
 		94FFE5352285A4F700138DA7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94FFE5342285A4F700138DA7 /* AppDelegate.swift */; };
 		94FFE5372285A4F700138DA7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94FFE5362285A4F700138DA7 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		94341D04229C642D00FFB979 /* Class3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class3.swift; sourceTree = "<group>"; };
+		94AD25F6229C3DFC003A44FD /* Class1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class1.swift; sourceTree = "<group>"; };
 		94AD25F6229C3DFC003A44FD /* Class1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class1.swift; sourceTree = "<group>"; };
 		94FFE5312285A4F700138DA7 /* Branching.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Branching.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94FFE5342285A4F700138DA7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +67,7 @@
 				94FFE53D2285A4F900138DA7 /* LaunchScreen.storyboard */,
 				94FFE5402285A4F900138DA7 /* Info.plist */,
 				94AD25F6229C3DFC003A44FD /* Class1.swift */,
+				94341D04229C642D00FFB979 /* Class3.swift */,
 			);
 			path = Branching;
 			sourceTree = "<group>";
@@ -138,12 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-<<<<<<< HEAD
-=======
-				94AD25F9229C3E4E003A44FD /* Class2.swift in Sources */,
 				94AD25F7229C3DFC003A44FD /* Class1.swift in Sources */,
->>>>>>> 31c85be... [F1] add class 1
 				94FFE5372285A4F700138DA7 /* ViewController.swift in Sources */,
+				94341D05229C642D00FFB979 /* Class3.swift in Sources */,
 				94FFE5352285A4F700138DA7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
