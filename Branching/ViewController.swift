@@ -26,6 +26,10 @@ class ViewController: UIViewController {
     func Z2(){
         
     }
+    
+    func X1(){
+        
+    }
 
 
     func Z3(){
