@@ -12,4 +12,8 @@ class Class1{
     func method1(){
         
     }
+    
+    func method2(){
+        
+    }
 }
