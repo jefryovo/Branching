@@ -9,5 +9,7 @@
 import Foundation
 
 class Class1{
-    
+    func method1(){
+        
+    }
 }
