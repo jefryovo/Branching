@@ -10,6 +10,7 @@
 		94341D05229C642D00FFB979 /* Class3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94341D04229C642D00FFB979 /* Class3.swift */; };
 		94AD25F7229C3DFC003A44FD /* Class1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94AD25F6229C3DFC003A44FD /* Class1.swift */; };
 		94AD25F7229C3DFC003A44FD /* Class1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94AD25F6229C3DFC003A44FD /* Class1.swift */; };
+		941BC625229CF358000EEA1F /* Class4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 941BC624229CF358000EEA1F /* Class4.swift */; };
 		94FFE5352285A4F700138DA7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94FFE5342285A4F700138DA7 /* AppDelegate.swift */; };
 		94FFE5372285A4F700138DA7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94FFE5362285A4F700138DA7 /* ViewController.swift */; };
 		94FFE53A2285A4F700138DA7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94FFE5382285A4F700138DA7 /* Main.storyboard */; };
@@ -21,6 +22,7 @@
 		94341D04229C642D00FFB979 /* Class3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class3.swift; sourceTree = "<group>"; };
 		94AD25F6229C3DFC003A44FD /* Class1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class1.swift; sourceTree = "<group>"; };
 		94AD25F6229C3DFC003A44FD /* Class1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class1.swift; sourceTree = "<group>"; };
+		941BC624229CF358000EEA1F /* Class4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class4.swift; sourceTree = "<group>"; };
 		94FFE5312285A4F700138DA7 /* Branching.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Branching.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94FFE5342285A4F700138DA7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		94FFE5362285A4F700138DA7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				94FFE5402285A4F900138DA7 /* Info.plist */,
 				94AD25F6229C3DFC003A44FD /* Class1.swift */,
 				94341D04229C642D00FFB979 /* Class3.swift */,
+				941BC624229CF358000EEA1F /* Class4.swift */,
 			);
 			path = Branching;
 			sourceTree = "<group>";
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				94AD25F7229C3DFC003A44FD /* Class1.swift in Sources */,
+				941BC625229CF358000EEA1F /* Class4.swift in Sources */,
 				94FFE5372285A4F700138DA7 /* ViewController.swift in Sources */,
 				94341D05229C642D00FFB979 /* Class3.swift in Sources */,
 				94FFE5352285A4F700138DA7 /* AppDelegate.swift in Sources */,
