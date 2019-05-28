@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     func F2(){
         
     }
+    
+    func X1(){
+        
+    }
 
 
 }
